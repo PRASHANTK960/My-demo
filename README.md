@@ -1,2 +1,2 @@
-# My-demo
-This is my Git Repository
+# Prashant's demo
+This is my first Git Repository
